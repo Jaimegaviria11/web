@@ -4,4 +4,4 @@
 - Deportes
 - Economia
 - Mundo 
-- 
+- Politica
